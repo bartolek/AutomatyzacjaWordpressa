@@ -8,5 +8,5 @@
 5. Utworzenie pliku hosts.ini z adresami maszyn docelowych
 6. Utworzenie pliku setup_wp.yaml z konfiguracją
 
-![alt text](screenzdziałania.png "Title")
-![alt text](wordpress.png "Title")
+![screen](screenzdziałania.png "Title")
+![screen](wordpress.png "Title")
