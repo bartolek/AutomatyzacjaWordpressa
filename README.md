@@ -7,3 +7,6 @@
 4. sudo yum update -y
 5. Utworzenie pliku hosts.ini z adresami maszyn docelowych
 6. Utworzenie pliku setup_wp.yaml z konfiguracją
+
+![alt text](screendziałania.png "Title")
+![alt text](działającywordpress.png "Title")
