@@ -9,4 +9,4 @@
 6. Utworzenie pliku setup_wp.yaml z konfiguracją
 
 ![alt text](screenzdziałania.png "Title")
-![alt text](działający wordpress.png "Title")
+![alt text](wordpress.png "Title")
