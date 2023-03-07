@@ -22,4 +22,4 @@
 19. Wykonanie komendy ansible-playbook -i hosts.ini setup_wp.yaml -e DB_PW='witam'
 
 ![screen](screenzdziałania.png "Title")
-![screen](wordpress.png "Title")
+
